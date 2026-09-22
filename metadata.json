@@ -1,0 +1,6 @@
+{
+  "name": "Jahail",
+  "description": "Full-screen hero landing page for creative agency Jahail featuring A.R.I.A.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
